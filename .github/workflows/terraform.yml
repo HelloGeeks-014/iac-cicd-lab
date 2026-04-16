@@ -1,6 +1,6 @@
 name: Terraform CI/CD
 
-# When does this pipeline run?
+
 on:
   push:
     branches: [ main ]
